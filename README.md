@@ -75,7 +75,6 @@ git push -u origin master
 ```
 git add <filename>
 git commit -m "代码提交信息"
+git pull origin master
 git push origin master
 ```
-=======
->>>>>>> 3ea75d629e7f909b9fea238cd7ede06c2b3f19e8

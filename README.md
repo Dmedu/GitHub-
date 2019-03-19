@@ -1,5 +1,5 @@
 # GitHub配置过程
-##注册GitHub账号
+## 注册GitHub账号
 请移步：
 ```
 https://github.com

@@ -68,3 +68,11 @@ git remote add origin git@github.com:username/YouRepositoriesName.git
 ```
 git push -u origin master
 ```
+
+### 更新本地文件到远程仓库
+步骤分别为添加、提交、推送。
+```
+git add <filename>
+git commit -m "代码提交信息"
+git push origin master
+```

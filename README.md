@@ -1,5 +1,5 @@
 # GitHub配置过程
-##注册GitHub账号
+## 注册GitHub账号
 请移步：
 ```
 https://github.com
@@ -68,6 +68,7 @@ git remote add origin git@github.com:username/YouRepositoriesName.git
 ```
 git push -u origin master
 ```
+<<<<<<< HEAD
 
 ### 更新本地文件到远程仓库
 步骤分别为添加、提交、推送。
@@ -76,3 +77,5 @@ git add <filename>
 git commit -m "代码提交信息"
 git push origin master
 ```
+=======
+>>>>>>> 3ea75d629e7f909b9fea238cd7ede06c2b3f19e8
